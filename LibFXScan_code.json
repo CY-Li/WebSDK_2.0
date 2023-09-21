@@ -1,8 +1,4 @@
 {
-   "LIBWFX_STAUSCODE":{
-      "0":"SUCCESS",
-      "99":"FAIL"
-   },
    "LIBWFX_ERRCODE":{
       "1":"FAIL",
       "2":"NO_INIT",
